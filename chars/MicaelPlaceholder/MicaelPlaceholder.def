@@ -1,0 +1,24 @@
+[Info]
+name = "micaPlaceholder"
+displayname = "Micael"
+versiondate = 0?,0,201?
+mugenversion = 0?,0,201?
+author = "Sumin2393"
+pal.defaults = 6,3,4,2  
+
+[Files]
+Cmd      = Kirby.cmd       
+Cns      = Kirby.cns 
+st       = Kirby.cns  
+st2       = Kirby2.cns 
+stcommon = common1.cns ;0000
+Sprite   = Kirby.sff      
+Anim     = Kirby.air        
+Sound    = Kirby.snd    
+Pal1     = 5.act  
+Pal2     = 10.act
+Pal3     = 20.act
+Pal4     = 30.act
+Pal5     = 40.act
+Pal6     = 50.act
+
