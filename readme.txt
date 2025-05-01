@@ -1,41 +1,41 @@
-﻿        M.U.G.E.N
+  IMG4 THE REBBELION TOURNAMENT
 
-  Version 1.1 Beta 1
-  27 Jul 2013
-
+  MADE IN M.U.G.E.N
   (c) 1999-2013 Elecbyte
+  (c) 2020-2026 Isaac Ayala
+  (c) 2020-2026 Team4us
+  (c) 2026 Guillermo Vallecillo
+  (c) 2026 Liamagon Arts
 
 
 About
 -----
 
-M.U.G.E.N is a 2D fighting game engine with many customizable
-components.
-
-This is an public beta release. Beta releases contain work-in-progress
-features and have more bugs than the stable releases.
-
-Please visit our forums at elecbyte.com for support, bug reports and
-other useful resources.
-
-This distribution includes a sample character Kung Fu Man. You
-can check his movelist in the readme file in his directory:
-  chars/kfm/
-
-
+IMG4 THE REBBELION TOURNAMENT es un
+fighting game desarrollado en M.U.G.E.N
+desarrollado por Liamagon Arts y Guillermo Vallecillo
+por el quinto aniversario de la serie de animacion IMG4.
 
 Updates
 -------
 
-See history.html for updates.
-
-
+ALPHA 'VOID' 0.01(Abril 2025)
+	Incluye:
+		PERSONAJES NO TERMINADOS
+		MICAEL
+		ISAAC
+		I.CHINO
+		JAVIER
+		LIAMAGON
+		MANUEL
+		NUNFIO
+		OSWALDO
 
 Contents
 --------
 
-I.      M.U.G.E.N Info
-II.     Key Configuration
+I.      REQUISITOS MINIMOS
+II.     CONFIGURACION DE CONTROLES
 III.    Running the Game
 IV.     Game HotKeys
 V.      Speed Issues
@@ -45,112 +45,14 @@ VIII.   Sample Content
 A.      License Agreement
 B.      Acknowledgements
 
-
-=====================================================================
-I. M.U.G.E.N Info
-=====================================================================
-
-M.U.G.E.N may be used free-of-charge for non-commercial purposes.
-For other uses, please contact us.  Refer to Appendix A for the full
-license text.
-
-
-System requirements
+Requisitos minimos
 -------------------
 
-Operating System: Microsoft Windows XP SP2 or newer required.
+Sistema operativo: Microsoft Windows XP SP2 o mayor.
 
-CPU: Intel Core Duo or equivalent recommended for HD resolutions.
+CPU: Intel Core Duo o mayor.
 
-Memory: 512 MB or more (actual requirements may vary based on
-character and stage complexities).
-
-
-What M.U.G.E.N?
----------------
-
-M.U.G.E.N is a 2D fighting game engine, originally released in 1999.
-M.U.G.E.N was originally designed for users to create games that
-matched the technology level of 2D fighters from the mid '90s.
-However, it quickly evolved to become highly customizable, allowing
-very fine control over each character's behavior.  In fact, there
-are custom games for M.U.G.E.N that don't behave like your typical 2D
-fighter.
-
-The majority of content created for M.U.G.E.N tend to be distributed
-as individual characters, stages or motifs (motifs are like themes,
-that control the look and feel of the game).  Assembling a game is as
-simple as downloading the content of your choice, and configuring
-M.U.G.E.N to know about it.
-
-M.U.G.E.N is designed to be used by people with little or no
-programming experience, but with some artistic talent and patience to
-learn.  Of course, having some programming background does give you a
-bit of a headstart.  However, if you are just looking to play with
-downloaded content, all you need to know is how to unzip files and
-edit a text file.
-
-M.U.G.E.N is also an acroymn for something, but we forgot
-what it is. :)
-
-Here's a sampling of features you can find in M.U.G.E.N:
-- Customizable title screen, character select screen, life and power
-  bars, game sound effects, fonts and more.
-- Characters can have any number of sounds and sprites of any size
-  limited by your computer's memory.
-- Choose from multiple resolutions, ranging from 320x240 up to full
-  HD at 1920x1080.
-- Cutscenes.
-
-Game Engine
-- Use up to 7 buttons for a character.
-- Regular moves, special moves, super moves, etc.
-- Projectiles and special effects.
-- Move cancels and combos, multi-part moves and throws.
-- What your character can do is defined by a scripting language (and
-  your imagination).
-
-
-How M.U.G.E.N?
---------------
-
-M.U.G.E.N was originally developed for DOS in C using DJGPP and
-Allegro, an excellent compiler and gaming library respectively.
-Today, M.U.G.E.N is built for Microsoft Windows using Visual Studio
-Express and SDL.
-
-
-Where M.U.G.E.N?
-----------------
-
-http://elecbyte.com/mugen
-
-
-Why M.U.G.E.N?
---------------
-
-To tell you the truth, we were making a shooting game and all of a
-sudden it turned into this.  Although we were making a shooting game
-in the beginning, we noticed that there weren't any good commercial
-fighting games on the PC at the time.  Some of the inspiration came
-from early engines like SFIBM.
-
-
-Who M.U.G.E.N?
---------------
-
-If you want to contact us about something, please use the contact
-form on our website.
-http://elecbyte.com/
-
-
-When M.U.G.E.N?
----------------
-
-I don't quite remember when we started this project, but it was
-sometime around 1997 or 1998.  Our first public release version was
-9X.06.27.
-
+Memoria: 512 MB o mas.
 
 
 =====================================================================
