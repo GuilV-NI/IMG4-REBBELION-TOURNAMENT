@@ -1,4 +1,4 @@
-﻿; Definitions of system screens
+; Definitions of system screens
 
 ; *** DO NOT MODIFY OR OVERWRITE THIS FILE ***
 ; To customize, make a copy of this file in a subdirectory of your
@@ -15,9 +15,9 @@
 
 ;----------------------------
 [Info]
-name = "Default"          ;Name of motif
-author = "Elecbyte"       ;Motif author name
-versiondate = 09,01,2009  ;Version date of motif (MM-DD-YYYY) (new in MUGEN 2009)
+name = "IMG4 THE REBBELION TOURNAMENT"          ;Name of motif
+author = "Team4Us"       ;Motif author name
+versiondate = 04,03,2026  ;Version date of motif (MM-DD-YYYY) (new in MUGEN 2009)
 mugenversion = 1.0        ;Version of M.U.G.E.N motif is compatible with (new in MUGEN 2009)
 localcoord = 320,240      ;Local coordinate space width and height (new in MUGEN 2009)
 

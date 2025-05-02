@@ -71,15 +71,7 @@
  ;Insert your characters below.
 
 MicaelPlaceholder, stages/MicaelPlaceholder.def
-Alberto, stages/Alberto.def
-Alex, stages/Alex.def
-Chino, stages/Chino.def
-Isaac, stages/Isaac.def
-Javier, stages/Javier.def
-Liamagon, stages/Liamagon.def
-Manuel, stages/Manuel.def
-Nunfio, stages/Nunfio.def
-Oswaldo, stages/Cubo.def
+Dragadon, stages/Dragadon.def
 
 ;-----------------------
 [ExtraStages]
