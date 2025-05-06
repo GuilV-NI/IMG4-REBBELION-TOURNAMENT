@@ -1,3 +1,11 @@
+[Remap]
+x = x
+y = y
+z = z
+a = a
+b = b
+c = c
+s = s
 ; The CMD file.
 ;
 ; Two parts: 1. Command definition and  2. State entry
